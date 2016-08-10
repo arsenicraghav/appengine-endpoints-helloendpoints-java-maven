@@ -9,7 +9,7 @@
     <artifactId>helloendpoints</artifactId>
 
     <properties>
-        <app.id>gae-maven-endpoint-starter</app.id>
+        <app.id>your-app-id</app.id>
         <app.version>1</app.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
