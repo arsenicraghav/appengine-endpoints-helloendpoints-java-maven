@@ -14,7 +14,7 @@ A "hello world" application for Google Cloud Endpoints in Java.
 - [Google App Engine Maven plugin][4]
 
 ## Setup Instructions
-1. Update the value of `application` in `appengine-web.xml` to the app ID you
+1. Update the value of `application` in `pom.xml` to the app ID you
    have registered in the App Engine admin console and would like to use to host
    your instance of this sample.
 1. Optional step: These sub steps are not required but will enable the "Authenticated
